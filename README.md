@@ -2,6 +2,18 @@
 
 This is a collection of resources for Backend developers, inspired by [roadmap.sh](https://roadmap.sh/backend)
 
+  - [Internet](#internet)
+    - [How does the internet work?](#how-does-the-internet-work)
+    - [What is HTTP?](#what-is-http)
+    - [Browsers and how they work?](#browsers-and-how-they-work)
+    - [DNS and how it works?](#dns-and-how-it-works)
+    - [What is Domain Name?](#what-is-domain-name)
+    - [What is hosting?](#what-is-hosting)
+  - [Relational Databases](#relational-databases)
+    - [ACID](#acid)
+  - [Authentication](#authentication)
+    - [JWT](#jwt)
+
 ## Internet
 
 ### How does the internet work?
@@ -25,6 +37,8 @@ This is a collection of resources for Backend developers, inspired by [roadmap.s
 - [ ] 
 
 ### What is Domain Name?
+
+- [ ] What is a Domain Name? - https://developer.mozilla.org/en-US/docs/Learn/Common_questions/What_is_a_domain_name
 
 ### What is hosting?
 
