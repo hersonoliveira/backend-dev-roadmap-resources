@@ -43,6 +43,42 @@ This is a collection of resources for Backend developers, inspired by [roadmap.s
 ### What is hosting?
 
 
+## Basic Frontend Knowledge
+
+### HTML
+
+- [ ] HTML basics - https://developer.mozilla.org/en-US/docs/Learn/Getting_started_with_the_web/HTML_basics
+
+### CSS
+
+- [ ] MDN CSS guide - https://developer.mozilla.org/en-US/docs/Web/CSS
+
+### JavaScript
+
+- [ ] MDN JavaScript guide - https://developer.mozilla.org/en-US/docs/Web/JavaScript
+
+## OS and General Knowledge
+
+### Terminal Usage
+
+### How OSs work in General
+
+### Process Management
+
+### Threads and Concurrency
+
+### Basic Terminal Commands
+
+### Memory Management
+
+### Interprocess Communication
+
+### I/O Management
+
+### POSIX Basics
+
+### Basic Networking Concepts
+
 ## Relational Databases
 
 ### ACID
